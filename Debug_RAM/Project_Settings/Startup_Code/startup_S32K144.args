@@ -1,0 +1,6 @@
+-c
+-I"D:/Git/Mock_FasTrack_2024/FasTrack_2024_Rotation_Node/include"
+-x assembler-with-cpp
+-g3
+-mcpu=cortex-m4
+-specs=nosys.specs
